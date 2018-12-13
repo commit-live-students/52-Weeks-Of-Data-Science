@@ -1,0 +1,85 @@
+#### 1. True-False: We use confidence intervals for for deciding whether the population supports a specific idea/model/hypothesis.
+
+* True
+* False
+
+Sol: False
+We use Hypothesis Testing for deciding whether the population supports a specific idea/model/hypothesis
+
+#### 2. Type 1 Error : False Positives :: Type 2 Error : ?
+
+* False Positives
+* True Positives
+* False Negatives
+* True Negatives
+
+sol: False Negatives
+
+#### 3. True-False: With the Chi-squared test, we can test whether a sample mean differs from the an expected (population) mean for numeric variables.
+
+* True
+* False
+
+Ans: False. Chi-squared test is for categorical variables
+
+#### 4. In Wrapper Methods which of the following methods are used?
+
+* Forward Selection
+* Backward Elimination
+* Recursive Feature elimination
+* All of the above
+
+Sol: All of the above
+
+#### 5. Which are the methods used for feature selection.
+
+* Filter Methods
+* Wrapper Methods
+* Embedded Methods
+* All of the above
+
+Sol: All of the above
+
+#### 6. what are Filter Methods used in Feature Selection.
+
+* Pearson’s Correlation 
+* LDA(Linear discriminant analysis)
+* ANOVA
+* Chi-Square
+* All of the above
+* None of the above
+
+#### 7. True-False: Feature selection is different from dimensionality reduction
+
+* False
+* True
+
+Sol: True
+
+Both methods seek to reduce the number of attributes in the dataset, but a dimensionality reduction method do so by creating new combinations of attributes,
+where as feature selection methods include and exclude attributes present in the data without changing them.
+
+#### 8. True-False: LASSO is one more method for feature Selection
+
+* True
+* False
+
+Sol: True
+
+#### 9. Why do we use feature selection?
+
+* To enables the machine learning algorithm to train faster.
+* reduces the complexity of a model and makes it easier to interpret
+* improves the accuracy of a model if the right subset is chosen.
+* It reduces overfitting.
+* All of the above
+
+#### 10. True-False: In Filter Methods, each feature is considered separately, thereby ignoring feature dependencies, which may lead to worse classification performance when
+	compared to other types of feature selection techniques.
+
+* True
+* False 
+
+Sol: True
+
+
